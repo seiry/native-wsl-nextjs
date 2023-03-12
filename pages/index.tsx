@@ -57,6 +57,7 @@ export default function Home() {
               priority
             />
           </div>
+          coooooooooooooool!
         </div>
 
         <div className={styles.grid}>
