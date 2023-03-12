@@ -58,6 +58,7 @@ export default function Home() {
             />
           </div>
           coooooooooooooool!!
+          gpg sign!
         </div>
 
         <div className={styles.grid}>
